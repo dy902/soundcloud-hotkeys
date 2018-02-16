@@ -2,8 +2,8 @@
 {
 	"manifest_version": 2,
 	"name": "SoundCloud Keyboard Shortcuts",
-	"description": "Adds keyboard shortcuts to play/pause, play next, play previous, and like tracks in SoundCloud",
-	"version": "0.0.0.1",
+	"description": "Adds keyboard shortcuts (hotkeys) to play/pause, play next, play previous, and like tracks in SoundCloud",
+	"version": "0.0.0.2",
 	"icons": {
 		"128": "icon128.png"
 	},
@@ -37,6 +37,6 @@
 	],
 
 	"page_action": {
-		"default_title": "Soundcloud Keyboard Shortcuts"
+		"default_title": "SoundCloud Keyboard Shortcuts"
 	}
 }
