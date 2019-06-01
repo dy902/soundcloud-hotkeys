@@ -12,7 +12,7 @@ Like: Alt+Shift+L
 
 ## Install
 
-Visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/soundcloud-keyboard-short/iikppihclhmkpfopoahelgdgjnnobebl) and click "Add to Chrome".
+Visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/soundcloud-keyboard-short/ikhigoamgbflnjhdbajcpaehkjdcdokh/) and click "Add to Chrome".
 
 ## Develop locally
 
