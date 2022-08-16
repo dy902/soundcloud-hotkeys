@@ -20,7 +20,7 @@
 		},
 		"next": {
 			"description": "Next track",
-			"suggested_key": "+"
+			"suggested_key": "Alt"
 		},
 		"previous": {
 			"description": "Previous track",
