@@ -20,7 +20,7 @@
 		},
 		"next": {
 			"description": "Next track",
-			"suggested_key": "Alt+Shift+Period"
+			"suggested_key": "+"
 		},
 		"previous": {
 			"description": "Previous track",
